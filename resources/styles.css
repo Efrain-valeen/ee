@@ -52,5 +52,23 @@ footer{
 
 
 }
+.button-resta{
+    padding: 10px 20px;
+    background-color: #000;
+    color: #978bdd;
+    cursor: pointer;
 
+}
+.button-multi{
+    padding: 10px 20px;
+    background-color: #000;
+    color: #978bdd;
+    cursor: pointer;
+}
+.button-division{
+    padding: 10px 20px;
+    background-color: #000;
+    color: #978bdd;
+    cursor: pointer;
+}
 
